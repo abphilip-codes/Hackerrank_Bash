@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/fractal-trees-all/problem
+
 declare -A matrix
 num_rows=63
 num_columns=100

@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem
+
 read a
 read b
 read c
