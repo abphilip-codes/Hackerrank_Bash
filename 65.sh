@@ -2,5 +2,5 @@
 
 read
 Allen=($(cat))
-Allen=${arr[*]}
+Allen=${Allen[*]}
 echo $((${Allen// /^}))
